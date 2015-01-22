@@ -1,7 +1,7 @@
 inherit kde4
 
 NAME="calligra-l10n-tr"
-VERSION=2.7.5
+VERSION=2.8.7
 RELEASE=1
 CATEGORY="KDE"
 SUMMARY="Calligra Suite Turkish translation files"
